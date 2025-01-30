@@ -11,8 +11,3 @@ func main2() {
 	fmt.Println("Sum :", a+b)
 	fmt.Print("Subtract :", a-b)
 }
-
-//abc
-//abc
-//abc
-//abc

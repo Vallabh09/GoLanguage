@@ -10,4 +10,6 @@ func main2() {
 
 	fmt.Println("Sum :", a+b)
 	fmt.Print("Subtract :", a-b)
+
+	fmt.Println("hello vallabh joshi is here")
 }
